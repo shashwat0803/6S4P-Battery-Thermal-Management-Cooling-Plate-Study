@@ -1,0 +1,1 @@
+# 6S4P-Battery-Thermal-Management-Cooling-Plate-Study
