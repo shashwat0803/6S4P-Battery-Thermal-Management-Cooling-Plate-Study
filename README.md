@@ -21,9 +21,13 @@ Aluminum cooling plate
 Conjugate heat transfer analysis
 
 Cases Studied:
+
 Case	Cooling Condition	h (W/m²K)	Tmax (K)
+
 1	Bottom face only	~Natural	356 K
+
 2	Bottom + sides	10	348 K
+
 3	Bottom + sides	50	312 K
 
 Key Insights:
