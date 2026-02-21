@@ -24,11 +24,11 @@ Cases Studied:
 
 Case	Cooling Condition	h (W/m²K)	Tmax (K)
 
-1	Bottom face only	~Natural	356 K
+1	Bottom face only	(10 W/m^2K)	(356 K)
 
-2	Bottom + sides	10	348 K
+2	Bottom + sides	(10 W/m^2K)	(348 K)
 
-3	Bottom + sides	50	312 K
+3	Bottom + sides	(50 W/m^2K)	(312 K)
 
 Key Insights:
 
